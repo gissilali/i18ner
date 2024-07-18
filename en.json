@@ -1,0 +1,19 @@
+{
+  "EQUITY": {
+    "MOTTO": "More than just banking.",
+    "VISION": "Vision."
+  },
+  "COMMON": {
+    "TICKET": "Ticket {{id}} ",
+    "VALIDATE": "Validate"
+  },
+  "LOGIN": {
+    "COMMON": {
+      "SIGN-IN": "Sign In",
+      "LOGGED-IN": "You are logged in as ",
+      "RETURN_TO_DASHBOARD": "Return to dashboard",
+      "LOG-IN-TEXT": "You are not logged in at the moment. Please login to continue serving our customers.",
+      "UNAUTHORIZED": "Unauthorized"
+    }
+  }
+}

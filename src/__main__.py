@@ -1,11 +1,13 @@
 import typer
+import csv_handler
 
 app = typer.Typer()
 
 
 @app.command(name='json-to-csv')
-def to_csv(path: str):
+def csv(path: str):
     print(f"Excel {path}")
+    csv_handler.handle(path)
 
 @app.command(name='csv-to-json')
 def to_json(path: str):
